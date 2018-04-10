@@ -27,3 +27,18 @@ This design brings:
 It doesn't bring:
 - additional motor control channels
 - software over-current or over-temperature sensing
+
+# PCBs
+======================
+
+Layout
+
+![Layout](/Electronics/PowerDistributionBoardSMDLayout.PNG)
+
+![Layout](/Electronics/PowerDistributionBoardThruholeLayout.PNG)
+
+Schematic
+
+![Schematic](/PowerDistributionBoardSMDSchematic.PNG)
+
+![Schematic](/PowerDistributionBoardThruholeSchematic.PNG)
