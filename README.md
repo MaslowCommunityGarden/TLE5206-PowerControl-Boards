@@ -39,6 +39,6 @@ Layout
 
 Schematic
 
-![Schematic](/PowerDistributionBoardSMDSchematic.PNG)
+![Schematic](/Electronics/PowerDistributionBoardSMDSchematic.PNG)
 
-![Schematic](/PowerDistributionBoardThruholeSchematic.PNG)
+![Schematic](/Electronics/PowerDistributionBoardThruholeSchematic.PNG)
