@@ -1,0 +1,16 @@
+PCB BOM SMD
+
+
+XH-Series Connectors: 455-2271-ND             3        MP1-3
+Power Jack:           CP-202BH-ND             1        J10
+1x8 .1" headers:      732-5321-ND             6        Arduino Pwr, ADCL, ADCH, Comm., PWML, PWMH
+18x2 .1" headers:     732-5309-ND             1        XIO
+H-Bridge:             TLE52062GAUMA1CT-ND     3        IC-1,2,3
+Indicator LED Green:  475-1410-1-ND           2        LED 1: 5V, LED 2: 12V
+Current Limiting R1:  RMCF0805JT270RCT-ND     1        R1
+Current Limiting R2:  541-4162-1-ND           1        R2
+25.4x34.93mm heatsink Mouser-532-374124B35G   3        N/A
+Capacitors 100uF      PCE3879DKR-ND           3        C1, C3, C5
+Capacitors 1uF        445-5146-1-N            2        C7,8
+Capacitors 0.1uF      311-1361-1-ND           3        C2, C4, C6
+ 
