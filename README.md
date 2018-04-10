@@ -33,7 +33,7 @@ It doesn't bring:
 
 Layout
 
-![Layout](https://raw.githubusercontent.com/MaslowCommunityGarden/TLE5206-Power-Control-Boards/PowerDistributionBoardSMDLayout.JPG)
+![Layout](https://github.com/MaslowCommunityGarden/TLE5206-PowerControl-Boards/PowerDistributionBoardSMDLayout.JPG)
 
 ![Layout](https://raw.githubusercontent.com/MaslowCommunityGarden/TLE5206-Power-Control-Boards/PowerDistributionBoardThruholeLayout.JPG)
 
