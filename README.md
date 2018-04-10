@@ -33,14 +33,14 @@ It doesn't bring:
 
 Layout
 
-![Layout](/Electronics/PowerDistributionBoardSMDLayout.PNG)
+![Layout](https://raw.githubusercontent.com/MaslowCommunityGarden/TLE5206-Power-Control-Boards/Electronics/PowerDistributionBoardSMDLayout.PNG)
 
-![Layout](/Electronics/PowerDistributionBoardThruholeLayout.PNG)
+![Layout](https://raw.githubusercontent.com/MaslowCommunityGarden/TLE5206-Power-Control-Boards/Electronics/PowerDistributionBoardThruholeLayout.PNG)
 
 Schematic - SMD version
 
-![Schematic](/Electronics/PowerDistributionBoardSMDSchematic.PNG)
+![Schematic](https://raw.githubusercontent.com/MaslowCommunityGarden/TLE5206-Power-Control-Boards/Electronics/PowerDistributionBoardSMDSchematic.PNG)
 
 Schematic - Thruhole version
 
-![Schematic](/Electronics/PowerDistributionBoardThruholeSchematic.PNG)
+![Schematic](https://raw.githubusercontent.com/MaslowCommunityGarden/TLE5206-Power-Control-Boards/Electronics/PowerDistributionBoardThruholeSchematic.PNG)
