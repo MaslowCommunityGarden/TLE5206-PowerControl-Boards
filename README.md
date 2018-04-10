@@ -37,8 +37,10 @@ Layout
 
 ![Layout](/Electronics/PowerDistributionBoardThruholeLayout.PNG)
 
-Schematic
+Schematic - SMD version
 
 ![Schematic](/Electronics/PowerDistributionBoardSMDSchematic.PNG)
+
+Schematic - Thruhole version
 
 ![Schematic](/Electronics/PowerDistributionBoardThruholeSchematic.PNG)
