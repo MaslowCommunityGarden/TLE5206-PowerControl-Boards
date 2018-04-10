@@ -1,5 +1,7 @@
 # TLE5206 PowerControl Boards
 
+PowerControl board based on the TLE5206. Thru-hole and SMD versions
+
 The standard Maslow PowerControl board uses a pair of simple surface-mount motor-control chips, the L298P013TR, to control the motors. Each chip can control two motors, up to total 4A divided between the motors. Only three motors are provisioned in the release version of the board. There has been concern about the current capacity of these chips and there have been instances where the chips have been damaged when software malfunctioned. Once a chip is damaged, the board would require replacing a 20-pin surface-mount chip to repair.
 
 The TLE5206 offers higher current capacity, over-temperature and over-current detection and protection, along with a simpler package. In addition, there is a thru-hole version of the chip available that would allow a thru-hole version of the board, easier for some users to construct or repair. While the control pins are different from the L298 chips, the firmware requires very little change to work with the TLE5206.
