@@ -83,7 +83,6 @@ void  setupAxes();
 int   getPCBVersion();
 void pause();
 void maslowDelay(unsigned long);
-void  _watchDog();
 void execSystemRealtime();
 void systemSaveAxesPosition();
 void systemReset();
@@ -91,5 +90,4 @@ byte systemExecuteCmdstring(String&);
 void setPWMPrescalers(int prescalerChoice);
 void configAuxLow(int A1, int A2, int A3, int A4, int A5, int A6);
 void configAuxHigh(int A7, int A8, int A9);
-
 #endif
