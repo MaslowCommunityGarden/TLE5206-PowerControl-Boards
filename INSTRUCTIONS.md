@@ -2,5 +2,5 @@ The circuit boards are electronically the same, one uses thru-hole parts for eas
 
 Many web-based PCB houses will accept an EagleCAD .brd file for manufacturing.
 
-The firmware is a branch of the Maslow Firmware, updated to v1.11 as of 4/10/18. It differs from the master in having a different board ID to allow defining IO pins specific to this board, and using different IO for the AUX pins. Use the Arduino IDE to upload this firmware as you would the master firmware to the stock PowerControl board.
+The firmware has been merged with the main MaslowCNC Firmware branch. Use the Arduino IDE to upload the master firmware to control the TLE5206 board.
 
