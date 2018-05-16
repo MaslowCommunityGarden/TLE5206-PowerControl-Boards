@@ -10,7 +10,7 @@ The TLE5206 offers higher current capacity, over-temperature and over-current de
 
 This is a first stab at using the TLE5206 chips on the PowerControl board.
  -  The Electronics folder has EagleCAD board and schematic files for a SMD version and a thru-hole version. I've built and tested both.
- -  The Firmware folder has a branch of the version 1.11 firmware which implements all the functions of that version as well as a few others I've wished for when working with the standard PowerControl board. It uses a modified board ID arrangement to differentiate it from the standard PowerControl boards and make use of the extended IO pins on the end of the Mega2560. It adds three true PWM pins to the AUX group which might be used for spindle control with some software development. It doesn't implement the software over-current detection that the TLE5206 offers. For now, the chips sense the over-current or over-temperature condition and protect themselves by turning off the outputs.
+ -  The Firmware has been merged with the main MaslowCNC Firmware branch. It adds three true PWM pins to the AUX group which might be used for spindle control with some software development. It doesn't implement the software over-current detection that the TLE5206 offers. For now, the chips sense the over-current or over-temperature condition and protect themselves by turning off the outputs. Use the Arduino IDE to upload the master firmware to control the TLE5206 board.
 
 This design brings:
 - separate controller chip for each motor
