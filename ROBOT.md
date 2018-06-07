@@ -1,3 +1,5 @@
-ModerationLevel = communityManaged
-
- Facilitator: blurfl
+{
+    "ModerationLevel": "communityManaged",
+    "Facilitator": "blurfl",
+    "Category": "maslow" 
+}
